@@ -3,6 +3,10 @@ NOAA VES-V v1.44 - macOS Installation Instructions
 
 This app requires a one-time fix to run on macOS due to signature issues.
 
+DOWNLOAD THE SIMULATION
+------------------------
+https://github.com/nmfs-ost/VES-V/blob/master/Executables.md
+
 HOW TO INSTALL:
 ---------------
 1. Place the "fix_and_run.command" file in the same folder as the app.
